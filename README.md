@@ -1,4 +1,4 @@
-# ▁▂▃▄▅▆▇ dotfiles - WIP ReadMe ▇▆▅▄▃▂▁
+# ▁▂▃▅▆▇ dotfiles - WIP ReadMe ▇▆▅▃▂▁
 Beginning to archive some of my stuff, finally.
 
 ```
